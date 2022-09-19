@@ -6,7 +6,7 @@ theme_config:
   appearance_toggle: true 
   date_format: "%Y-%m-%d"
   show_description: false 
-  show_navbar: true # show h orizontal navbar
+  show_navbar: false # show h orizontal navbar
   show_projects: false # show projects as cards, add in _data/home.yml
   show_blog: false # show blog posts added in _posts
   show_old_projects: false # show old projects as cards, add in _data/home.yml
