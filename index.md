@@ -16,3 +16,16 @@ As war and political unrest continue to emerge in different parts of the world, 
 
 However, we as a global community can play our part in fighting agaist racial descrimination. We can work to dismantle the structures that allow rasicm to hrive in our society. We can support movements for equality and human rights. We can speak out against hate speech and promote anti-racism through education and reparatory justice.
 
+## What can we do to celebrate International Day of Peace
+
+* Join billions of others around the world by falling silent at noon on September 21st to remember the heroes who gave their lives in order to secure peace
+* Watch PeaceCast, a free livestream that hosts online events that introduce the global community to the ideals of peace
+* Donate to charities like the Red Cross or UNICEF to support the people who are struggling for survival in developing nations
+* Plant a Tree on Peace Day to establish a symbol of tolerance, patience, and renewal
+* Write to lawmakers to adopt more peaceful approaches to domestic issues and international relations
+* Spread awareness of Peace Day by sharing information with your family, freinds, and community memebers by posting about it on social media
+
+## Resources
+I was not aware that Peace Day existed or was such an important event before I strted doing more reserch about it. Here are some of the resources that I found that might help educate others about it too!
+
+* 
