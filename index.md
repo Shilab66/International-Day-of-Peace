@@ -11,3 +11,6 @@ In June of 1954 the UN Assotiation gifted the Japanese Peace Bell to the governm
 Each year, the UN decides on a theme that is relavent to international community, and creates event and workshops. This year the theme is "End Racism. Build Peace". The UN website says
 
 >Achieving true peace entails much more than laying down arms.  It requires the building of societies where all members feel that they can flourish. It involves creating a world in which people are treated equally, regardless of their race. Racism continues to poison institutions, social structures, and everyday life in every society. It destabilizes societies, undermines democracies, erodes the legitimacy of governments, and the linkages between racism and gender inequality are unmistakable.
+
+As war and political unrest continue to emerge in different parts of the world, causing people to flee, we have seen racial discrimination at borders. During the aftermath of the Covi-19 pandemic and the lockdown, we have seen how certain racial groups have been hit harder than others. As economies suffer and inflation cause prises to rise, we have seen hate speech and violence directed at certain minority groups.
+
