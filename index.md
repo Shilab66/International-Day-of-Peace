@@ -28,4 +28,8 @@ However, we as a global community can play our part in fighting agaist racial de
 ## Resources
 I was not aware that Peace Day existed or was such an important event before I strted doing more reserch about it. Here are some of the resources that I found that might help educate others about it too!
 
-* 
+* [UN Day of Peace Website](http://example.com/](https://www.un.org/en/observances/international-day-peace)
+* [UN Guide to Fighting Racism](https://www.un.org/en/fight-racism)
+* [National Today Day of Peace](https://nationaltoday.com/international-day-of-peace/)
+* [Wikipedia International Day of Peace](https://en.wikipedia.org/wiki/International_Day_of_Peace)
+* [internationaldayofpeace.org](https://internationaldayofpeace.org/)
