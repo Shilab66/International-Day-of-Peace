@@ -8,4 +8,6 @@ International Day of Peace (also known as "Peace Day") is an annual event declar
   
 In June of 1954 the UN Assotiation gifted the Japanese Peace Bell to the governmnet of Japan. It was cast from coins that were donated children from all over the world. The bell is located in the Japanese Garden of the United Nations headquarters. To commemerate the start of Peace Day, the bell is rung by the Secretary General, UN executives, and other public figures every year on Septenber 21.
   
-Each year, the UN decides on a theme that is prevalent in society that year, and creates event and workshops. This year the theme is "End Racism. Build Peace".
+Each year, the UN decides on a theme that is relavent to international community, and creates event and workshops. This year the theme is "End Racism. Build Peace". The UN website says
+
+>Achieving true peace entails much more than laying down arms.  It requires the building of societies where all members feel that they can flourish. It involves creating a world in which people are treated equally, regardless of their race. Racism continues to poison institutions, social structures, and everyday life in every society. It destabilizes societies, undermines democracies, erodes the legitimacy of governments, and the linkages between racism and gender inequality are unmistakable.
